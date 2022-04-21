@@ -1,5 +1,7 @@
 # Office calculations due to Covid-19 restrictions
 
+Thanks Tea Stack template created by Matt Waler 
+
 ## Getting Started
 
 For the lazy:
